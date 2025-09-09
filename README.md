@@ -163,6 +163,10 @@ print(f"Heart disease prevalence: {df['target'].mean():.2%}")
 - **Model Performance**: Target 85%+ accuracy for risk prediction
 - **Clinical Relevance**: Validated against medical literature benchmarks
 
+## Screenshots / Demo
+Show what the dashboard looks like. - ![Alt text](https://github.com/Tushar988/Heart-Disease-Analytics/blob/main/project1.png)
+Example: ![Dashboard preview](https://github.com/Tushar988/Heart-Disease-Analytics/blob/main/project1.png)
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
